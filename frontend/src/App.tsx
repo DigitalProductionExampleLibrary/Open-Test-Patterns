@@ -268,7 +268,7 @@ export function App() {
         </nav>
         <a
           className="github-link"
-          href="https://github.com/jdvandenberg/Open-Test-Patterns"
+          href="https://github.com/DigitalProductionExampleLibrary/Open-Test-Patterns"
           target="_blank"
           rel="noopener noreferrer"
         >
